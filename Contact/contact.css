@@ -1,0 +1,16 @@
+body{
+    background-image: url(/webimg/Contactback.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.content{
+    background: transparent;
+    width: 40%;
+    padding: 20px;
+    margin: 100px auto;
+    font-family:'Oxanium', cursive;
+    justify-items: center;
+    text-align: center;
+    color: tomato;
+}
+
